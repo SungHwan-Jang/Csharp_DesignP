@@ -1,0 +1,7 @@
+E:\CSharpDesignPattern\1_Singleton\1_Singleton\bin\Debug\1_Singleton.exe.config
+E:\CSharpDesignPattern\1_Singleton\1_Singleton\bin\Debug\1_Singleton.exe
+E:\CSharpDesignPattern\1_Singleton\1_Singleton\bin\Debug\1_Singleton.pdb
+E:\CSharpDesignPattern\1_Singleton\1_Singleton\obj\Debug\1_Singleton.csprojAssemblyReference.cache
+E:\CSharpDesignPattern\1_Singleton\1_Singleton\obj\Debug\1_Singleton.csproj.CoreCompileInputs.cache
+E:\CSharpDesignPattern\1_Singleton\1_Singleton\obj\Debug\1_Singleton.exe
+E:\CSharpDesignPattern\1_Singleton\1_Singleton\obj\Debug\1_Singleton.pdb
