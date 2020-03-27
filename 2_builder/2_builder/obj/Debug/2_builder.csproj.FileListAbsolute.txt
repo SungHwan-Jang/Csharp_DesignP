@@ -1,0 +1,7 @@
+E:\Csharp_DesignP\2_builder\2_builder\bin\Debug\2_builder.exe.config
+E:\Csharp_DesignP\2_builder\2_builder\bin\Debug\2_builder.exe
+E:\Csharp_DesignP\2_builder\2_builder\bin\Debug\2_builder.pdb
+E:\Csharp_DesignP\2_builder\2_builder\obj\Debug\2_builder.csprojAssemblyReference.cache
+E:\Csharp_DesignP\2_builder\2_builder\obj\Debug\2_builder.csproj.CoreCompileInputs.cache
+E:\Csharp_DesignP\2_builder\2_builder\obj\Debug\2_builder.exe
+E:\Csharp_DesignP\2_builder\2_builder\obj\Debug\2_builder.pdb
